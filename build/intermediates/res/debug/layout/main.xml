@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StackView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/details"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"/>
+<!-- From: file:/C:/Users/Patrick/Desktop/cw-omnibus-master/cw-omnibus-master/WidgetCatalog/StackView/res/layout/main.xml -->
